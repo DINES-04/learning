@@ -1,6 +1,7 @@
-hello i am learning GitHub
+hello i am learning github
 
-today i learnt few git commands:
-1)git init
-2)git add
-3)git commit
+<html>
+  <body>
+    <h1> This is header tag . and continue learning </h1>
+  </body>
+</html>
